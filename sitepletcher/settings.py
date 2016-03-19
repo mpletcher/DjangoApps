@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'portfolio', # connect my portfolio project to the Django system
 ]
 
 MIDDLEWARE_CLASSES = [
